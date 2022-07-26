@@ -189,8 +189,8 @@ async def khalid(client: Client, message: Message):
     & ~filters.edited
 )
 async def khalid(client: Client, message: Message):
-    await message.reply_photo(
-        photo=f"https://telegra.ph/file/ea1061d45590603ec8912.mp4",
+    await message.reply_video(
+        video=f"https://telegra.ph/file/ea1061d45590603ec8912.mp4",
         caption=f"""مـرحبا بك عزيزي في سـورس الـجنرال سـورس من افـضـل سـورسـات الاغـانـي 💕. ⸢𝙎𝙊𝙐𝙍𝘾𝙀 𝙀𝙇𝙂𝙀𝙉𝙀𝙍𝘼𝙇⸥. 𝑫𝑬𝑽:@DAD_ELGENERAL
 قناه السورس @CH_ELGENERAL""",
         reply_markup=InlineKeyboardMarkup(
@@ -211,8 +211,8 @@ async def khalid(client: Client, message: Message):
     & ~filters.edited
 )
 async def khalid(client: Client, message: Message):
-    await message.reply_photo(
-        photo=f"https://telegra.ph/file/ea1061d45590603ec8912.mp4",
+    await message.reply_video(
+        video=f"https://telegra.ph/file/ea1061d45590603ec8912.mp4",
         caption=f"""مـرحبا بك في سـورس الـجنرال سـورس من افـضـل سـورسـات الاغـانـي 💗. ⸢𝙎𝙊𝙐𝙍𝘾𝙀 𝙀𝙇𝙂𝙀𝙉𝙀𝙍𝘼𝙇⸥.""",
         reply_markup=InlineKeyboardMarkup(
         [
